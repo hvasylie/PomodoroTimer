@@ -8,8 +8,5 @@ public class Solution {
         PomodoroTimer pomodoroTimer = new PomodoroTimer();
         pomodoroTimer.timer();
 
-//        TimerGUI gui = new TimerGUI();
-//        gui.setVisible(true);
-
     }
 }

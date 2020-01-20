@@ -9,15 +9,6 @@ public class PomodoroTimer {
 
     static protected String string = "Beginning";
 
-//    @Override
-//    public void run() {
-//        try {
-//            timer();
-//        } catch (IOException e) {
-//            e.printStackTrace();
-//        }
-//    }
-
     protected void timer () throws IOException {
 
         for (int minutes = 24; minutes >= 0; minutes--) {
